@@ -1,0 +1,4 @@
+leg,asset_count,average_beta,average_expected_excess_return,scale_to_beta_one,scaled_expected_excess_return
+low_beta_leg,3,0.726667,0.046333,1.376147,0.063761
+high_beta_leg,3,1.353333,0.066667,0.738916,0.049261
+bab_spread,6,,,,0.0145
